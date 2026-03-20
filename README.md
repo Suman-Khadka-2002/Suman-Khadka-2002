@@ -2,7 +2,7 @@
 
 
 
-<p align="left">🔭 I'm currently working on exciting projects.<br>🌱 I'm continuously learning and improving my skills.</p>
+<p align="left">🔭 I'm currently working on exciting projects.</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/suman-khadka-46a5371a5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
