@@ -32,27 +32,6 @@ Web Scraping • NLP • Git • GitHub
 
 ---
 
-<h3 align="left">📌 Projects</h3>
-
-<p align="left">
-🔹 <b>Text Summarization System</b><br>
-Built using T5 Transformer and LSA as part of final year project (team of 4)<br><br>
-
-🔹 <b>News Recommendation System</b><br>
-Scraped news articles and implemented search & recommendation features during internship
-</p>
-
----
-
-<h3 align="left">🏆 Achievements</h3>
-
-<p align="left">
-🥈 2nd Position in College Table Tennis Competition <br>
-💼 Completed Internship in Web Scraping & Recommendation Systems
-</p>
-
----
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Suman-Khadka-2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
