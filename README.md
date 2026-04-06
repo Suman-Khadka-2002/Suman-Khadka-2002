@@ -19,11 +19,17 @@
 
 <p align="left">
 Python • C • C++ • Java • JavaScript • .NET <br>
-Web Scraping • NLP • Git • GitHub
+Web Scraping • NLP 
 </p>
 
 ---
+<div align="center">
+<!--
+  ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suman-Khadka-2002&show_icons=true&theme=radical&hide_border=true&count_private=true)-->
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suman-Khadka-2002&theme=radical&hide_border=true)
 
+</div>
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Suman-Khadka-2002&color=blueviolet&style=flat-square" alt="profile views"/>
 </div>
