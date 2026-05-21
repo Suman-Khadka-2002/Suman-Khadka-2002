@@ -24,6 +24,8 @@ Web Scraping • NLP
 
 ---
 <div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman-Khadka-2002&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00D9FF&line=0077FF&point=ffffff" width="95%" />
 <!--
   ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suman-Khadka-2002&show_icons=true&theme=radical&hide_border=true&count_private=true)-->
   
